@@ -138,6 +138,137 @@ A collection of Python mini-projects for learning variables, lists, dictionaries
 *   Display BMI and category clearly.  
     **File Name:** `challenge7_bmi_calculator.py`
 
+## 🛒 Challenge 8: The Shopping Cart System
+
+****Project Title:** ** Shopping Cart System
+**Objective:** Create a simple billing system to calculate totals and apply discounts.
+**Concepts Used:** Loops, Conditional Statements, Arithmetic Operations, User Input
+
+Tasks
+
+- Continuously accept item prices using a while loop.
+
+- Stop taking input when the user enters 0 (sentinel value).
+
+- Keep track of the total number of items and the subtotal amount.
+
+- Ensure no negative prices are allowed (ask again without counting as an item).
+
+- Apply discounts based on the subtotal:
+
+  - 20% for totals ≥ 1000
+
+  - 10% for totals ≥ 500
+
+  - 5% for totals ≥ 200
+
+  - 0% for totals < 200
+
+Display a clear bill summary including subtotal, discount amount, and final total.
+
+**File Name:** challenge8_shopping_cart.py
+
+## 🕒 Challenge 9: Employee Hours Report
+
+**Project Title:** Employee Hours Report
+**Objective:** Analyze student exam scores and generate a performance report.
+**Concepts Used:** range, for loop, enumerate, list comprehension, Arithmetic Operations
+
+**Scenario**
+
+You are analyzing student exam scores to generate performance reports, including score listing, filtering, and average calculation.
+
+**Tasks**
+
+- Create a list of 10 random exam scores ranging from 0 to 100 using list comprehension.
+
+- Display each score with its index using the enumerate function.
+
+- Find all scores greater than 75 and display them.
+
+- Calculate and display the average score.
+
+**File Name:** challenge9_employee_hours_report.py
+
+## 🔢 Challenge 10: Simple Calculator App
+
+**Project Title:** Simple Calculator App
+**Objective:** Provide users with a simple calculator to perform basic mathematical operations.
+**Concepts Used:** Built-in Functions, User-defined Functions, Conditional Statements, Arithmetic Operations, User Input
+
+**Scenario**
+
+A company wants to provide users with a simple calculator to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+**Tasks**
+
+- Create user-defined functions for addition, subtraction, multiplication, and division.
+
+- Ask the user to input two numbers and select the operation they want to perform.
+
+- Call the appropriate function and display the result.
+
+- Use built-in functions like abs(), round(), and pow() in your solution.
+
+- Handle division by zero gracefully and inform the user without crashing the program.
+
+**File Name:**
+
+challenge10_simple_calculator_App.py
+
+## 📐 Challenge 11: NumPy Arrays & Operations
+
+**Project Title:** NumPy Arrays & Basic Operations
+**Objective:** Learn to create arrays, perform arithmetic operations, use statistical functions, and find indices of maximum and minimum values.
+**Concepts Used:** NumPy Arrays, Arithmetic Operations, Statistical Functions, Reshaping, Indexing
+
+**Tasks**
+
+**Create arrays:**
+
+- 1D array
+
+- 2D array
+
+ - 3D array
+
+**Perform arithmetic operations:**
+
+- Addition
+
+- Subtraction
+
+- Multiplication
+
+- Division
+
+**Use NumPy functions:**
+
+- mean()
+
+- sum()
+
+- std()
+
+- reshape()
+
+- arange()
+
+- linspace()
+
+**Find indices of maximum and minimum values:**
+
+- argmax()
+
+- argmin()
+
+**File Name:**
+
+challenge11_numpy_arrays_operations.py
+
+
+
+
 **🚀 How to Run the Projects**
 
 
